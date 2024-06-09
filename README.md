@@ -1,6 +1,6 @@
 # Hey there! 👋
 ![Hello World](https://img.shields.io/badge/Hello-World-blue)
-![made](https://img.shields.io/badge/Made%20with-Carbon-1f425f.svg)
+![made](https://img.shields.io/badge/Made%20with-Carbon_and_Water-1f425f.svg)
 
 ![Du207's GitHub stats](https://github-readme-stats.vercel.app/api?username=du207&show_icons=true)
 
